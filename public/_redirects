@@ -5,5 +5,5 @@
 /js-sdk/* https://docs.tolgee.io/js-sdk/:splat 302
 /tolgee-cli/* https://docs.tolgee.io/tolgee-cli/:splat 302
 /api/* https://docs.tolgee.io/api/:splat 302
-/* https://new-tolgee.framer.website/:splat 200
 /redirect/* https://docs.tolgee.io/redirect/:splat 200
+/* https://new-tolgee.framer.website/:splat 200
